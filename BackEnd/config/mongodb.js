@@ -1,4 +1,3 @@
-// C:\Users\dell\Desktop\Ecommerce-dev\BackEnd\config\db.js
 import mongoose from "mongoose";
 
 const connectDB = async () => {
